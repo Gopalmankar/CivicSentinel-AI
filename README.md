@@ -33,20 +33,31 @@
 
 <img src="https://img.shields.io/badge/Open%20Source-Friendly-orange?style=for-the-badge"/>
 
-</p>
 <p align="center">
 
-<img src="https://img.shields.io/github/license/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+<a href="https://github.com/Gopalmankar/CivicSentinel-AI/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/Gopalmankar/CivicSentinel-AI?style=flat-square" alt="License"/>
+</a>
 
-<img src="https://img.shields.io/github/last-commit/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+<a href="https://github.com/Gopalmankar/CivicSentinel-AI/commits/main">
+  <img src="https://img.shields.io/github/last-commit/Gopalmankar/CivicSentinel-AI?style=flat-square" alt="Last Commit"/>
+</a>
 
-<img src="https://img.shields.io/github/repo-size/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+<a href="https://github.com/Gopalmankar/CivicSentinel-AI">
+  <img src="https://img.shields.io/github/repo-size/Gopalmankar/CivicSentinel-AI?style=flat-square" alt="Repo Size"/>
+</a>
 
-<img src="https://img.shields.io/github/issues/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+<a href="https://github.com/Gopalmankar/CivicSentinel-AI/issues">
+  <img src="https://img.shields.io/github/issues/Gopalmankar/CivicSentinel-AI?style=flat-square" alt="Issues"/>
+</a>
 
-<img src="https://img.shields.io/github/languages/top/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+<a href="https://github.com/Gopalmankar/CivicSentinel-AI">
+  <img src="https://img.shields.io/github/languages/top/Gopalmankar/CivicSentinel-AI?style=flat-square" alt="Top Language"/>
+</a>
 
-<img src="https://img.shields.io/github/languages/count/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+<a href="https://github.com/Gopalmankar/CivicSentinel-AI">
+  <img src="https://img.shields.io/github/languages/count/Gopalmankar/CivicSentinel-AI?style=flat-square" alt="Languages Count"/>
+</a>
 
 </p>
 
