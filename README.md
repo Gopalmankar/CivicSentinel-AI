@@ -4,8 +4,9 @@
 # 🚀 CivicSentinel AI
 
 ### Intelligent Hyperlocal Civic Response Platform Powered by Google Gemini AI
-<img width="1983" height="793" alt="ChatGPT Image Jun 27, 2026, 09_37_17 AM" src="https://github.com/user-attachments/assets/40d8ed50-4c32-4222-ad3b-da68a70e3f4b" />
-" alt="CivicSentinel AI Banner" width="100%">
+<img width="1983" height="793" alt="ChatGPT Image Jun 27, 2026, 09_45_32 AM" src="https://github.com/user-attachments/assets/ee84a56f-fed9-4c9b-a93a-32535d936f52" />
+
+
 
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini%20API-blue?logo=google)]()
 [![Google Cloud](https://img.shields.io/badge/Google-Cloud-orange?logo=googlecloud)]()
