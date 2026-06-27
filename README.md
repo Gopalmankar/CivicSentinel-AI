@@ -8,19 +8,47 @@
 
 
 
-[![Google Gemini](https://gemini.google.com/app)]()
-[![Google Cloud](https://cloud.google.com/free?utm_source=bingpmax&utm_medium=display&utm_campaign=Cloud-SS-DR-GCP-1713664-GCP-DR-APAC-IN-en-PMAX-Display-PMAX-Prospecting-%epid!-%ecid!-GenericCloud&utm_content=c-1144593476670103-o-kwd-2323336789910817:loc-1666-260698-627602943&gclid=b21d673399a219af33c20d0ccb2bcb8d&gclsrc=3p.ds&msclkid=b21d673399a219af33c20d0ccb2bcb8d)]()
-[![React](https://react.dev/)]()
-[![FastAPI](https://fastapi.tiangolo.com/)]()
-[![PostgreSQL](https://www.postgresql.org/download/)]()
-[![TypeScript](https://www.typescriptlang.org/)]()
-[![License](https://mit-license.org/)]()
+
 
 ### 🏆 Coding Ninjas × Google for Developers — Vibe2Ship Hackathon 2026
 
 **Building the Future of AI-Powered Civic Intelligence**
 
 </div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hackathon-Google%20Vibe2Ship%202026-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maps-Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Build-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Friendly-orange?style=for-the-badge"/>
+
+</p>
+<p align="center">
+
+<img src="https://img.shields.io/github/license/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+
+<img src="https://img.shields.io/github/last-commit/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+
+<img src="https://img.shields.io/github/repo-size/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+
+<img src="https://img.shields.io/github/issues/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+
+<img src="https://img.shields.io/github/languages/top/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+
+<img src="https://img.shields.io/github/languages/count/Gopalmankar/CivicSentinel-AI?style=flat-square"/>
+
+</p>
 
 ---
 
@@ -367,6 +395,11 @@ FIREBASE_PROJECT_ID=
 ```
 
 ---
+Demo GIF
+
+↓
+
+Screenshots
 
 # 📸 Screenshots
 
@@ -440,6 +473,14 @@ This project is released under the MIT License.
 
 ## ⭐ If you found this project interesting, consider giving it a star!
 
-**Built with ❤️ using Google Gemini AI and Google Cloud**
+<div align="center">
+
+## ⭐ Star this repository if you like the project!
+
+Made with ❤️ by Team CivicSentinel AI
+
+Google Gemini • React • FastAPI • PostgreSQL
 
 </div>
+
+
