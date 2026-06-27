@@ -352,14 +352,7 @@ Screenshots
 - 🤝 **Automated Volunteer Coordination:** Intelligently matching localized civic work orders directly with checked community volunteer task forces.
 - 📈 **Predictive Infrastructure Analytics:** Utilizing Gemini long-context tokens to analyze months of grievance patterns and forecast upcoming pipeline bursts or seasonal water logging zones.
 - 📷 **Before/After AI Verification Loop:** Automating the closing verification loop by cross-analyzing an officer's uploaded 'resolved image' against the citizen's original 'damage image'.
-- 🎙️ Voice Reporting
-- 🌐 Multilingual Support
-- 📡 Offline Reporting
-- 🤝 Volunteer Coordination
-- 🔔 Push Notifications
-- 📈 Predictive Infrastructure Analytics
-- 🤖 AI Chat Assistant
-- 📷 Before/After AI Verification
+  
 
 ---
 
