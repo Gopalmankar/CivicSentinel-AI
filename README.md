@@ -371,25 +371,29 @@ FIREBASE_PROJECT_ID=
 
 ## Home Screen
 
-<img src="assets/home.png"/>
+<img src="<img width="948" height="467" alt="Screenshot 2026-06-26 191948" src="https://github.com/user-attachments/assets/e5e450b6-bb91-4a43-8391-c2061518c642" />
+"/>
 
 ---
 
 ## Smart Map
 
-<img src="assets/map.png"/>
+<img src="<img width="772" height="313" alt="Screenshot 2026-06-26 192025" src="https://github.com/user-attachments/assets/e3501297-f0fb-4423-9253-fc67b89dfaec" />
+"/>
 
 ---
 
 ## Report Issue
 
-<img src="assets/report.png"/>
+<img src="<img width="946" height="438" alt="Screenshot 2026-06-27 090833" src="https://github.com/user-attachments/assets/0c3d15e1-43a4-43ee-a471-f2800e2a58c8" />
+"/>
 
 ---
 
 ## Dashboard
 
-<img src="assets/dashboard.png"/>
+<img src="<img width="951" height="452" alt="Screenshot 2026-06-27 090531" src="https://github.com/user-attachments/assets/c51fb523-ada7-44dc-8412-fd2f55f58f80" />
+"/>
 
 ---
 
