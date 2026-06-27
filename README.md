@@ -5,7 +5,7 @@
 
 ### Intelligent Hyperlocal Civic Response Platform Powered by Google Gemini AI
 
-<img src="assets/banner.png" alt="CivicSentinel AI Banner" width="100%">
+<img src="https://chatgpt.com/s/m_6a3f4c41af188191b59072d519956751" alt="CivicSentinel AI Banner" width="100%">
 
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini%20API-blue?logo=google)]()
 [![Google Cloud](https://img.shields.io/badge/Google-Cloud-orange?logo=googlecloud)]()
@@ -371,29 +371,29 @@ FIREBASE_PROJECT_ID=
 
 ## Home Screen
 
-<img src="<img width="948" height="467" alt="Screenshot 2026-06-26 191948" src="https://github.com/user-attachments/assets/e5e450b6-bb91-4a43-8391-c2061518c642" />
-"/>
+<img width="948" height="467" alt="Screenshot 2026-06-26 191948" src="https://github.com/user-attachments/assets/e5e450b6-bb91-4a43-8391-c2061518c642" />
+
 
 ---
 
 ## Smart Map
 
-<img src="<img width="772" height="313" alt="Screenshot 2026-06-26 192025" src="https://github.com/user-attachments/assets/e3501297-f0fb-4423-9253-fc67b89dfaec" />
-"/>
+<img width="772" height="313" alt="Screenshot 2026-06-26 192025" src="https://github.com/user-attachments/assets/e3501297-f0fb-4423-9253-fc67b89dfaec" />
+
 
 ---
 
 ## Report Issue
 
-<img src="<img width="946" height="438" alt="Screenshot 2026-06-27 090833" src="https://github.com/user-attachments/assets/0c3d15e1-43a4-43ee-a471-f2800e2a58c8" />
-"/>
+<img width="946" height="438" alt="Screenshot 2026-06-27 090833" src="https://github.com/user-attachments/assets/0c3d15e1-43a4-43ee-a471-f2800e2a58c8" />
+
 
 ---
 
-## Dashboard
+## Ward Analytics Dashboard
 
-<img src="<img width="951" height="452" alt="Screenshot 2026-06-27 090531" src="https://github.com/user-attachments/assets/c51fb523-ada7-44dc-8412-fd2f55f58f80" />
-"/>
+<img width="951" height="452" alt="Screenshot 2026-06-27 090531" src="https://github.com/user-attachments/assets/c51fb523-ada7-44dc-8412-fd2f55f58f80" />
+
 
 ---
 
