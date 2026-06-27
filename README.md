@@ -116,115 +116,29 @@ Issue Resolution
 
 ---
 
+
 # ✨ Key Features
 
-## 🤖 AI-Powered Issue Analysis
+## 🤖 AI-Powered Issue Analysis & Multi-Stage Verdict
+- **Gemini Vision Pipeline:** AI image understanding using Google Gemini 1.5 Flash API to analyze uploaded civic damages.
+- **Automated Verification:** Instant zero-shot verification appending a definitive `VERDICT: GENUINE` or `SUSPECTED_FRAUD` tag to filter spam.
+- **Intelligent Tagging:** Automatic issue categorization, severity estimation, and AI-generated localized descriptions.
 
-- AI image understanding using Google Gemini
-- Automatic issue categorization
-- AI-generated descriptions
-- Severity estimation
-- Intelligent tagging
+## 📍 Smart Geolocation & Global Hot-Swapping
+- **Dynamic City Switcher Input:** An intelligent tracking search bar that seamlessly executes camera pans (`map.flyTo`) to any searched Indian metropolis (e.g., Bhopal, Nagpur, Indore, Delhi) and instantly re-seeds the active system memory with hyper-localized ward issues.
+- **Interactive Live Maps:** Marker clustering and location-aware reporting built over a sleek CartoDB Dark Matter base tile layer.
 
----
+## 🧠 Intelligent Geospatial Deduplication
+- **Haversine Formula Constraint:** Automatically detects if a matching complaint exists within a strict 50-meter radius when a citizen uploads a report.
+- **Anti-Spam Merging:** Instead of generating duplicate tickets, it auto-merges the report into a singular node and increments a public "+1 Citizen Verification" counter.
 
-## 📍 Smart Geolocation
+## 🎙️ Speech Accessibility UI (Universal Inclusion)
+- **Native Browser Speech-to-Text:** Lightweight integrated voice layer that supports friction-free complaint descriptions in both English and Hindi voice inputs—perfect for field users and hands-free reporting.
 
-- Automatic GPS detection
-- Interactive city maps
-- Nearby issue discovery
-- Marker clustering
-- Location-aware reporting
-
----
-
-## 🧠 Intelligent Duplicate Detection
-
-Multiple users often report the same issue.
-
-Instead of creating duplicate complaints, CivicSentinel AI:
-
-- compares nearby locations
-- checks issue similarity
-- merges duplicate reports
-- increases community verification count
-
----
-
-## ⚡ AI Priority Engine
-
-Every issue receives an intelligent priority score based on:
-
-- Issue severity
-- Community verification
-- Frequency of reports
-- Infrastructure impact
-
-Priority Levels
-
-🔴 Critical
-
-🟠 High
-
-🟡 Medium
-
-🟢 Low
-
----
-
-## 👥 Community Verification
-
-Nearby citizens can:
-
-✅ Verify reports
-
-✅ Upvote issues
-
-✅ Add supporting evidence
-
-This improves report authenticity and reduces spam.
-
----
-
-## 🏛️ Authority Dashboard
-
-Authorities can:
-
-- Monitor live reports
-- Filter issues
-- Change issue status
-- View analytics
-- Track response time
-- Prioritize work orders
-
----
-
-## 📊 Analytics Dashboard
-
-Interactive dashboards include:
-
-- Total Issues
-- Active Issues
-- Resolved Issues
-- Average Resolution Time
-- Category Distribution
-- Heatmaps
-- Citizen Participation
-
----
-
-## 🌍 Google Technologies
-
-| Technology | Purpose |
-|------------|---------|
-| Google Gemini API | AI-powered issue understanding |
-| Google AI Studio | Prompt development |
-| Google Cloud | Application deployment |
-| Google Maps | Location services |
-| Firebase Authentication | Secure authentication |
-| Firebase Cloud Messaging | Notifications |
-
----
+## 🏛️ Advanced 3-Column Administration HUD
+- **Rigid 3-Column Desktop Grid:** Structurally optimized workspace below the map interface—2 columns handle a vertically scrollable real-time incident stream with explicit auto-height cards to prevent clipping, while the right column permanently anchors the interactive 'Report Anomaly' widget front and center.
+- **Unified Filter Nodes:** Converges isolated metric counters directly into the interactive map action layers displaying synchronized live counts like `🔴 High (2)`, `🟡 Med (1)`, and `🟢 Resolved (2)` to eliminate layout clutter.
+- **Universal Mobile/Tablet Break-Fixes:** Under 768px viewports, absolute layers drop fluidly into a clean vertical flex container ensuring 100% accessible file uploads with zero overlap.
 
 # 🏗️ System Architecture
 
@@ -431,8 +345,13 @@ Screenshots
 
 ---
 
+
 # 🚀 Future Roadmap
 
+- 📡 **Offline Mesh Reporting:** Allowing citizens to log structural complaints without immediate internet connectivity via lightweight local storage queues.
+- 🤝 **Automated Volunteer Coordination:** Intelligently matching localized civic work orders directly with checked community volunteer task forces.
+- 📈 **Predictive Infrastructure Analytics:** Utilizing Gemini long-context tokens to analyze months of grievance patterns and forecast upcoming pipeline bursts or seasonal water logging zones.
+- 📷 **Before/After AI Verification Loop:** Automating the closing verification loop by cross-analyzing an officer's uploaded 'resolved image' against the citizen's original 'damage image'.
 - 🎙️ Voice Reporting
 - 🌐 Multilingual Support
 - 📡 Offline Reporting
