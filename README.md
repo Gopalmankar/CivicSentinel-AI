@@ -8,13 +8,13 @@
 
 
 
-[![Google Gemini](https://img.shields.io/badge/Google-Gemini%20API-blue?logo=google)]()
-[![Google Cloud](https://img.shields.io/badge/Google-Cloud-orange?logo=googlecloud)]()
-[![React](https://img.shields.io/badge/React-19-blue?logo=react)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green?logo=fastapi)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)]()
-[![License](https://img.shields.io/badge/License-MIT-success)]()
+[![Google Gemini](https://gemini.google.com/app)]()
+[![Google Cloud](https://cloud.google.com/free?utm_source=bingpmax&utm_medium=display&utm_campaign=Cloud-SS-DR-GCP-1713664-GCP-DR-APAC-IN-en-PMAX-Display-PMAX-Prospecting-%epid!-%ecid!-GenericCloud&utm_content=c-1144593476670103-o-kwd-2323336789910817:loc-1666-260698-627602943&gclid=b21d673399a219af33c20d0ccb2bcb8d&gclsrc=3p.ds&msclkid=b21d673399a219af33c20d0ccb2bcb8d)]()
+[![React](https://react.dev/)]()
+[![FastAPI](https://fastapi.tiangolo.com/)]()
+[![PostgreSQL](https://www.postgresql.org/download/)]()
+[![TypeScript](https://www.typescriptlang.org/)]()
+[![License](https://mit-license.org/)]()
 
 ### 🏆 Coding Ninjas × Google for Developers — Vibe2Ship Hackathon 2026
 
